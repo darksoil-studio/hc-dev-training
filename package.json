@@ -1,0 +1,22 @@
+{
+  "name": "docs",
+  "version": "0.0.1",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "start": "pnpm dev",
+    "dev": "vitepress dev",
+    "build": "vitepress build",
+    "preview": "vitepress preview"
+  },
+  "devDependencies": {
+    "@shoelace-style/shoelace": "^2.11.0",
+    "api-viewer-element": "^1.0.0-pre.10",
+    "lit": "^3.0.0",
+    "vitepress": "^1.0.1",
+    "vitepress-plugin-mermaid": "^2.0.16"
+  },
+  "dependencies": {
+    "pnpm": "^9.15.1"
+  }
+}
