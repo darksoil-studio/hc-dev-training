@@ -32,15 +32,6 @@ export default defineConfig({
 		sidebar: {
 		},
 
-		socialLinks: [
-			{
-				icon: 'github',
-				link: 'https://github.com/darksoil-studio/',
-			},
-		],
-		search: {
-			provider: 'local',
-		},
 	},
 	head: [
 		[
