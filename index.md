@@ -5,7 +5,7 @@ layout: home
 hero:
   name: "Holochain Developer Course"
   text: ""
-  tagline: Learn how to design, develop, and deploy Holochain apps in 2 weeks
+  tagline: Learn how to build Holochain apps in 2 weeks
 
   actions:
     - theme: brand
