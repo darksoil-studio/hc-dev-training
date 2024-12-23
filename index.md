@@ -34,20 +34,31 @@ In order for you to receive full value from this course, you must already have e
 
 ## Details
 
-| Dates:        |      **February 3-14**      |
-| ------------- | :-----------: |
-| Location:      | **Online classroom (Zoom)** |
-| Group size:     |   **12**    |
-| Price:  |   **$2000**    |
+<style>
+    .headerless th {
+        display: none;
+    }
+</style>
 
-We recognize that the tech space is inequitable, so we have some bursaries available for applicants from systemically underrepresented groups. 
+<div class="headerless">
+
+|               |                             |
+| ------------- | :-------------------------: |
+| Dates:        |      **February 3-14**      |
+| Location:     | **Online classroom (Zoom)** |
+| Group size:   |   **12**                    |
+| Price:        |   **$2000**                 |
+
+</div>
+
+We recognize that the tech space is inequitable, so we have some bursaries available for applicants from systemically underrepresented groups. If this is you, please reach out to us at [hello@darksoil.studio](mailto:hello@darksoil.studio).
 
 ## Course Overview
 
 This training will run over the course of two weeks beginning on Monday the 3rd of February. 
 Each day has around 2 hours of theory on zoom and then there are exercises to complete before the next session (expect around 2h for this depending on person and skill). 
 
-The live sessions will be held at: 8 am PST / 11 am EST / 6pm CEST 
+The live sessions will be held at: 8 am PST / 11 am EST / 6pm CEST.
 
 After we have gone through all the theory, you get to practice it through implementing a small app (we provide a few different designs to choose from) in the hackathon days.
 
@@ -99,34 +110,39 @@ We look forward to your participation and learning together!
 }
 </style>
 
-## Meet the trainer
+## Meet the team
+
+<div style="display: flex; flex-direction: row; flex-wrap: wrap; gap: 20px">
+
+  <div style="flex: 1; display: flex; flex-direction: column; align-items: center">
 
 ![Guillem Cordoba](./guillem_circular_small.png)
 
+**Guillem Cordoba** has been a key contributor to both the Holochain protocol and the ecosystem as a whole, building apps, core tooling and developer education programs for 5+ years.  
 
+He is one of the world's most experienced and knowledgeable Holochain developers and an outstanding teacher. 
 
-**Guillem Cordoba** has been building Holochain applications for several years, he has been a key contributor to both the Holochain protocol and the ecosystem as a whole. He has trained others on Holochain development for nearly as long. 
+  </div>
 
-Guillem held the community-led development programs (dev camps) and online as well as in-person Holochain intensive development courses. He is one of the world's most experienced and knowledgeable Holochain developers and an outstanding teacher. 
-
-<pre>
-
-
-</pre>
-
+  <div style="flex: 1; display: flex; flex-direction: column; align-items: center">
 
 ![Viktor Zaunders](./viktor_circular_small.png)
 
-**Viktor Zaunders** is a community events and learning environments organizer. He is passionate about learning and creating spaces where people feel comfortable. 
+**Viktor Zaunders** is an educational organizer who is passionate about learning and creating spaces where people feel comfortable. 
 
-He will be doing the support, administration and communications around the course to make sure that students have a great experience. 
-<pre>
+He will be doing the support around the course. 
 
+  </div>
 
-</pre>
+  <div style="flex: 1; display: flex; flex-direction: column; align-items: center">
 
 ![Eric Bear](./bear_circular_small.png)
 
-**Eric Bear** is an event and community organizer with more than a decade of experience in creating learning environments. He loves creating spaces for connection and development and takes great care in helping students get set up to learn. 
+**Eric Bear** is a community organizer with more than a decade of experience in creating learning environments. 
 
-Eric will be responsible for opening the course as well as for the closing and evaluation. 
+
+He will supporting the structure and experience. 
+
+  </div>
+
+</div>
