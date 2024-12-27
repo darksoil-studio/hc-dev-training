@@ -3,7 +3,7 @@
 layout: home
 
 hero:
-  name: "Holochain Developer Course"
+  name: "Holochain Developer Training"
   text: ""
   tagline: Learn how to build Holochain apps in 2 weeks
 
