@@ -22,6 +22,12 @@ features:
 
 ---
 
+<style>
+.container p{
+  max-width: 800px !important;
+}
+</style>
+
 ## Outcome
 
 Participants will walk away from the course with the ability to make simple Holochain apps.
@@ -167,4 +173,39 @@ He will supporting the structure and experience.
 
   </div>
 
+</div>
+
+
+<style>
+.FAQ p {
+    margin-top: 0;
+    margin-left: 24px;
+}
+</style>
+
+<div class="FAQ">
+
+## FAQ
+
+#### Are the sessions recorded?
+Yes, sessions will be recorded and available to everyone for two months after the course.
+
+#### Will the materials for the course be available for some time after the course ends?
+Yes, they will be available for two months after the course ends.
+
+#### What if someone is rude, mean, or worse?
+We require participants to read and agree to our code of conduct, if anyone’s behavior violates the code of conduct we will address it immediately, with anything from discussion to removal from the course.
+
+#### What’s the deal with the February 28th session?
+We will hold a session for participants to share what they’ve been building, ask questions, get support, and offer feedback.
+
+#### I can’t make it to this one, will there be more? When?
+
+We are planning to run another, but we don’t know when. Apply now to reserve your place for the next course. In “Notes” section of the application, say you’re applying for the next course.
+
+#### What communication channel will we use?
+We’ll use our discord server and invite participants to a private channel.
+
+#### More questions?
+Please reach out to us at [hello@darksoil.studio](mailto:hello@darksoil.studio).
 </div>
