@@ -14,9 +14,9 @@ hero:
 
 features:
   - title: Lectures
-    details: Guillem will be walking you through the different elements of the course and using live visualizations of how Holochain works
+    details: Guillem will be walking you through the different elements of the course and using live visualizations of how Holochain works.
   - title: Excercises
-    details: There are exercises built into the interactive learning materials to make sure that all of the concepts land for you as a student
+    details: There are exercises built into the interactive learning materials to make sure that all of the concepts land for you as a student.
   - title: Mini-hackathon
     details: At the end of the course you will have time to build a very small app in order to get familiar with the actual process of building.
 
