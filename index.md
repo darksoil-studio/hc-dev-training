@@ -178,8 +178,8 @@ He will supporting the structure and experience.
 
 <style>
 .FAQ p {
-    margin-top: 0;
-    margin-left: 24px;
+    margin-top: 0 !important;
+    margin-left: 24px !important;
 }
 </style>
 
