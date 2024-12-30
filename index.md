@@ -24,7 +24,7 @@ features:
 
 ## Outcome
 
-Participants will walk away from the course able to make simple Holochain apps and work as a junior Holochain developer.
+Participants will walk away from the course with the ability to make simple Holochain apps.
 
 ## Course Overview
 
