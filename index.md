@@ -169,7 +169,7 @@ He will be doing the support around the course.
 **Eric Bear** is a community organizer with more than a decade of experience in creating learning environments. 
 
 
-He will supporting the structure and experience. 
+He will support the structure and experience. 
 
   </div>
 
@@ -194,7 +194,7 @@ Yes, sessions will be recorded and available to everyone for two months after th
 Yes, they will be available for two months after the course ends.
 
 #### What if someone is rude, mean, or worse?
-We require participants to read and agree to our code of conduct, if anyone’s behavior violates the code of conduct we will address it immediately, with anything from discussion to removal from the course.
+We require participants to read and agree to our code of conduct, if anyone’s behavior violates the [code of conduct](https://docs.google.com/document/u/1/d/1vBpqxwTZs9YuNyFzHsekzomMzOUGtyOE0mVWTxnMYjM/edit?usp=sharing) we will address it immediately, with anything from discussion to removal from the course.
 
 #### What’s the deal with the February 28th session?
 We will hold a session for participants to share what they’ve been building, ask questions, get support, and offer feedback.
