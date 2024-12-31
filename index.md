@@ -169,7 +169,7 @@ He will be doing the support around the course.
 **Eric Bear** is a community organizer with more than a decade of experience in creating learning environments. 
 
 
-He will supporting the structure and experience. 
+He will be supporting the structure and experience. 
 
   </div>
 
