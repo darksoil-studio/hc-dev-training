@@ -13,17 +13,17 @@ hero:
       link: "https://forms.gle/QPZ8yR4sYZvJtWH57"
 
 features:
-  - title: Lectures
-    details: Guillem will be walking you through the different elements of the course and using live visualizations of how Holochain works.
+  - title: Training
+    details: Learn the fundamentals of hApp development from world-leading Holochain developer and trainer, Guillem Cordoba
   - title: Excercises
-    details: There are exercises built into the interactive learning materials to make sure that all of the concepts land for you as a student.
+    details: Put what you’re learning into practice immediately with hands-on exercises.
   - title: Mini-hackathon
-    details: At the end of the course you will have time to build a very small app in order to get familiar with the actual process of building.
+    details: Get your hands dirty developing a simple Holochain with live and async support.
 
 ---
 
 <style>
-.container p{
+.container p {
   max-width: 800px !important;
 }
 </style>
@@ -34,14 +34,17 @@ Participants will walk away from the course with the ability to make simple Holo
 
 ## Course Overview
 
-This training will run over the course of two weeks beginning on Monday the 3rd of February. 
-Each day has around 2 hours of theory on zoom and then there are exercises to complete before the next session (expect around 2h for this depending on person and skill). 
+#### Core Training Sessions
 
-The live sessions will be held at: 8 am PST / 11 am EST / 6pm CEST.
+Each session will be about 2 hours long, and will end with exercises to complete before the next session. Exercises should take about 2 hours to do, depending on your level of experience.
 
-After we have gone through all the theory, you get to practice it through implementing a small app (we provide a few different designs to choose from) in the hackathon days.
+#### Mini-Hackathon
 
-During the two weeks after the course we will give ongoing asynchronous support for students that are building things and at the end of these two weeks we also offer a live session where we answer any questions or considerations that might have come up in building. 
+Participants will develop an app from a few options to during the hackathon, with async support on a discord server, and 2 dedicated live support sessions.
+
+#### Project Support (optional)
+
+Ongoing async support is available to participants for two weeks after the hackathon ends, with a live session for support, project updates, and feedback at the end of the month.
 
 ## Details
 
@@ -56,7 +59,8 @@ During the two weeks after the course we will give ongoing asynchronous support 
 |               |                             |
 | ------------- | :-------------------------: |
 | Dates:        |      **February 3-14**      |
-| Location:     | **Online classroom (Zoom)** |
+| Time:         | **5pm CET  / 11 am EST**    |
+| Location:     | **Zoom**                    |
 | Group size:   |   **12**                    |
 | Price:        |   **$2000**                 |
 
@@ -134,7 +138,6 @@ Applications are accepted on a first come, first serve basis. Once the course is
     padding: 0 20px;
     line-height: 38px;
     font-size: 14px;
-    
 }
 </style>
 
