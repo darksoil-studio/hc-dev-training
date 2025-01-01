@@ -191,24 +191,21 @@ He will be supporting the structure and experience.
 ## FAQ
 
 #### Are the sessions recorded?
-Yes, sessions will be recorded and available to everyone for two months after the course.
-
-#### Will the materials for the course be available for some time after the course ends?
 Yes, they will be available for two months after the course ends.
 
 #### What if someone is rude, mean, or worse?
 We require participants to read and agree to our code of conduct, if anyone’s behavior violates the code of conduct we will address it immediately, with anything from discussion to removal from the course.
 
-#### What’s the deal with the February 28th session?
-We will hold a session for participants to share what they’ve been building, ask questions, get support, and offer feedback.
+#### What’s the deal with the February 28th session? 
+We will hold a session for participants to share what they’ve been building, get support, and give/get feedback.
 
-#### I can’t make it to this one, will there be more? When?
-
-We are planning to run another, but we don’t know when. Apply now to reserve your place for the next course. In “Notes” section of the application, say you’re applying for the next course.
+#### I can’t make it to this one, will there be another? When?
+We are planning to run another, but we don’t know when. Apply now to reserve your place for the next course. In the “Notes” section of the application, say you’re applying for the next course.
 
 #### What communication channel will we use?
-We’ll use our discord server and invite participants to a private channel.
+We’ll use a private channel in our discord server.
 
 #### More questions?
 Please reach out to us at [hello@darksoil.studio](mailto:hello@darksoil.studio).
+
 </div>
