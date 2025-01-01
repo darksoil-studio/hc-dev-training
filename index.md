@@ -14,7 +14,7 @@ hero:
 
 features:
   - title: Training
-    details: Learn the fundamentals from world-leading Holochain developer and trainer, Guillem Cordoba.
+    details: Taught by world-leading Holochain developer and trainer, Guillem Cordoba.
   - title: Excercises
     details: Put what you’re learning into practice immediately with hands-on exercises.
   - title: Mini-hackathon
@@ -159,9 +159,7 @@ He is one of the world's most experienced and knowledgeable Holochain developers
 
 ![Viktor Zaunders](./viktor_circular_small.png)
 
-**Viktor Zaunders** is an educational organizer who is passionate about learning and creating spaces where people feel comfortable. 
-
-He will be doing the support around the course. 
+**Viktor Zaunders** is an educational organizer who is passionate about learning and creating spaces where people feel comfortable. He will be doing the support around the course. 
 
   </div>
 
@@ -169,10 +167,7 @@ He will be doing the support around the course.
 
 ![Eric Bear](./bear_circular_small.png)
 
-**Eric Bear** is a community organizer with more than a decade of experience in creating learning environments. 
-
-
-He will be supporting the structure and experience. 
+**Eric Bear** served as the director of ecosystem growth for Holochain for 6 years, and has a background in self-organized education. He supports the structure of the course 
 
   </div>
 
