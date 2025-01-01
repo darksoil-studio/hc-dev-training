@@ -14,7 +14,7 @@ hero:
 
 features:
   - title: Training
-    details: Learn the fundamentals of hApp development from world-leading Holochain developer and trainer, Guillem Cordoba
+    details: Learn the fundamentals from world-leading Holochain developer and trainer, Guillem Cordoba.
   - title: Excercises
     details: Put what you’re learning into practice immediately with hands-on exercises.
   - title: Mini-hackathon
