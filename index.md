@@ -96,6 +96,23 @@ We recognize that the tech space is inequitable, so we have some bursaries avail
 
 While much of a Holochain app is coded in Javascript using your preferred front end frameworks, Rust is required for the core Holochain functionality and integrity, so we require some Rust experience as a prerequisite for this training.
 
+If you’re an experienced Rust developer, then you’re ready to apply. 
+
+If you aren’t an experienced Rust dev, then you’ll need to go through the following chapters from the [Rust Book](https://doc.rust-lang.org/book/) and exercises from the [Rustling Course](https://rustlings.cool/). 
+
+
+| **Chapters**        |      **Exercises**      |
+| ------------- | :-----------: |
+| [Chapter 3](https://doc.rust-lang.org/book/ch03-01-variables-and-mutability.html) | 1, 2, 3 and 4  |
+| [Chapter 4](https://doc.rust-lang.org/book/ch04-00-understanding-ownership.html)| 6|
+| [Chapter 5](https://doc.rust-lang.org/book/ch05-00-structs.html)| 7|
+| [Chapter 6](https://doc.rust-lang.org/book/ch06-00-enums.html)| 8|
+| [Chapter 7](https://doc.rust-lang.org/book/ch07-00-managing-growing-projects-with-packages-crates-and-modules.html)| 10|
+| [Chapter 8](https://doc.rust-lang.org/book/ch08-00-common-collections.html)| 5 and 11|
+| [Chapter 9](https://doc.rust-lang.org/book/ch09-00-error-handling.html)| 13|  
+| [Chapter 13](https://doc.rust-lang.org/book/ch13-00-functional-features.html)| 18|
+
+
 
 ## Schedule
 
