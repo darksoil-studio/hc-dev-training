@@ -120,11 +120,10 @@ If you aren’t an experienced Rust dev, then you’ll need to go through the fo
 | ------------- | :-----------: |
 | February 3 | How Does Holochain Work? |
 | February 4 | Building Basic Holochain Apps |
-| February 5 | Queries and Capability Tokens |
+| February 5 | Paths & Agent Based Queries |
 | February 6 | Validation |
-| February 7 | Connecting from a UI |
-| 	|  |
-| February 10 | DNA - Modifiers and Clones  |
+| February 7 | Capability Tokens | | 	|  |
+| February 10 | External APIs & hApp Design  |
 | February 11 | Ecosystem Tooling & Hackathon Start  |
 | February 12 | Hackathon Support Session |
 | February 13 | Hackathon Support Session |
