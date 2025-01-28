@@ -123,7 +123,7 @@ If you aren’t an experienced Rust dev, then you’ll need to go through the fo
 | February 5 | Paths & Agent Based Queries |
 | February 6 | Validation |
 | February 7 | Capability Tokens | | 	|  |
-| February 10 | External APIs & hApp Design  |
+| February 10 | hApp Design & External APIs |
 | February 11 | Ecosystem Tooling & Hackathon Start  |
 | February 12 | Hackathon Support Session |
 | February 13 | Hackathon Support Session |
