@@ -124,7 +124,7 @@ If you aren’t an experienced Rust dev, then you’ll need to go through the fo
 | February 6 | Validation |
 | February 7 | Capability Tokens | | 	|  |
 | February 10 | Affordances for hApp Design & External APIs |
-| February 11 | Ecosystem Tooling & Hackathon Start  |
+| February 11 | hApp Tooling & Hackathon Start  |
 | February 12 | Hackathon Support Session |
 | February 13 | Hackathon Support Session |
 | February 14 | Hackathon End & Closing |
