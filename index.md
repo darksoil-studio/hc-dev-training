@@ -119,12 +119,11 @@ If you aren’t an experienced Rust dev, then you’ll need to go through the fo
 | ------------- | :-----------: |
 | May 5 | How Does Holochain Work? |
 | May 6 | Building Basic Holochain Apps |
-| May 7 | Queries and Capability Tokens |
+| May 7 | Paths & Agent Based Queries |
 | May 8 | Validation |
-| May 9 | Connecting from a UI |
-| 	|  |
-| May 12 | DNA - Modifiers and Clones  |
-| May 13 | Ecosystem Tooling & Hackathon Start  |
+| May 9 | Capability Tokens | | 	|  |
+| May 12 | Affordances for hApp Design & External APIs |
+| May 13 | hApp Tooling & Hackathon Start  |
 | May 14 | Hackathon Support Session |
 | May 15 | Hackathon Support Session |
 | May 16 | Hackathon End & Closing |
