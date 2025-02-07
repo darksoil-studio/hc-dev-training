@@ -5,12 +5,12 @@ layout: home
 hero:
   name: "Holochain Developer Training"
   text: ""
-  tagline: February 3 – 14
+  tagline: May 5 – 16
 
   actions:
     - theme: brand
-      text: Apply Now
-      link: "https://forms.gle/QPZ8yR4sYZvJtWH57"
+      text: Join the waitlist
+      link: "https://forms.gle/Mp3LPihre1ns8rYi8"
 
 features:
   - title: Training
@@ -58,17 +58,16 @@ Ongoing async support is available to participants for two weeks after the hacka
 
 |               |                             |
 | ------------- | :-------------------------: |
-| Dates:        |      **February 3-14**      |
+| Dates:        |      **May 5-16**      |
 | Time:         | **5pm CET  / 11 am EST**    |
 | Location:     | **Zoom**                    |
-| Group size:   |   **12**                    |
 | Price:        |   **$2000**                 |
 
 
 </div>
 
 
-<a href="https://forms.gle/QPZ8yR4sYZvJtWH57"><button style="margin-top: 20px; margin-bottom: 20px;" :class="$style.button">Apply Now</button></a>
+<a href="https://forms.gle/Mp3LPihre1ns8rYi8"><button style="margin-top: 20px; margin-bottom: 20px;" :class="$style.button">Join the waitlist</button></a>
 
 <style module>
 .button {
@@ -118,27 +117,26 @@ If you aren’t an experienced Rust dev, then you’ll need to go through the fo
 
 | **Date**        |      **Topic**      |
 | ------------- | :-----------: |
-| February 3 | How Does Holochain Work? |
-| February 4 | Building Basic Holochain Apps |
-| February 5 | Queries and Capability Tokens |
-| February 6 | Validation |
-| February 7 | Connecting from a UI |
+| May 5 | How Does Holochain Work? |
+| May 6 | Building Basic Holochain Apps |
+| May 7 | Queries and Capability Tokens |
+| May 8 | Validation |
+| May 9 | Connecting from a UI |
 | 	|  |
-| February 10 | DNA - Modifiers and Clones  |
-| February 11 | Ecosystem Tooling & Hackathon Start  |
-| February 12 | Hackathon Support Session |
-| February 13 | Hackathon Support Session |
-| February 14 | Hackathon End & Closing |
+| May 12 | DNA - Modifiers and Clones  |
+| May 13 | Ecosystem Tooling & Hackathon Start  |
+| May 14 | Hackathon Support Session |
+| May 15 | Hackathon Support Session |
+| May 16 | Hackathon End & Closing |
 | 	|  |
-| February 28: | Progress Updates (Optional) |
+| May 30: | Progress Updates (Optional) |
 
-## Apply for the training
-We are limiting this course to 12 participants for a more intimate learning environment with lots of individual support. 
+## Participate
+The program is limited to 12 participants for a more intimate learning environment with plenty of individual support.
 
-Applications are accepted on a first come, first serve basis. Once the course is full, we will put applicants on the wait list for the next training. 
+Join the waitlist to reserve your spot in line to be part of the next cohort.
 
-
-<a href="https://forms.gle/QPZ8yR4sYZvJtWH57"><button :class="$style.button">Apply Now</button></a>
+<a href="https://forms.gle/Mp3LPihre1ns8rYi8"><button :class="$style.button">Join the waitlist</button></a>
 
 <style module>
 .button {
