@@ -30,7 +30,7 @@ features:
 
 ## Outcome
 
-Participants will walk away from the course with the ability to make simple Holochain apps.
+Participants will walk away from this course with the ability to make simple Holochain apps.
 
 ## Course Overview
 
@@ -42,9 +42,9 @@ Each session will be about 2 hours long, and will end with exercises to complete
 
 Participants will develop an app from a few options to during the hackathon, with async support on a discord server, and 2 dedicated live support sessions.
 
-#### Project Support (optional)
+#### Project Support
 
-Ongoing async support is available to participants for two weeks after the hackathon ends, with a live session for support, project updates, and feedback at the end of the month.
+Participants get access to two weeks of async support after the hackathon ends, with live sessions to present their projects progress and receive feedback at the end of the month.
 
 ## Details
 
@@ -59,6 +59,7 @@ Ongoing async support is available to participants for two weeks after the hacka
 |               |                             |
 | ------------- | :-------------------------: |
 | Dates:        |      **May 5-16**      |
+| Project Support:        |      **May 19-30**      |
 | Time:         | **5pm CET  / 11 am EST**    |
 | Location:     | **Zoom**                    |
 | Price:        |   **$2000**                 |
@@ -128,7 +129,8 @@ If you aren’t an experienced Rust dev, then you’ll need to go through the fo
 | May 15 | Hackathon Support Session |
 | May 16 | Hackathon End & Closing |
 | 	|  |
-| May 30: | Progress Updates (Optional) |
+| May 29: | Project Presentations|
+| May 30: | Project Presentations|
 
 ## Participate
 The program is limited to 12 participants for a more intimate learning environment with plenty of individual support.
