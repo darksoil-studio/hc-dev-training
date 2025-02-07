@@ -18,7 +18,7 @@ features:
   - title: Excercises
     details: Put what you’re learning into practice immediately with hands-on exercises.
   - title: Mini-hackathon
-    details: Get your hands dirty developing a simple Holochain with live and async support.
+    details: Get your hands dirty developing a simple Holochain app with live and async support.
 
 ---
 
@@ -36,15 +36,15 @@ Participants will walk away from this course with the ability to make simple Hol
 
 #### Core Training Sessions
 
-Each session will be about 2 hours long, and will end with exercises to complete before the next session. Exercises should take about 2 hours to do, depending on your level of experience.
+Each session will be about 2 hours long, and will end with exercises to complete before the next session. Exercises should take about 2 hours to do, depending on experience level.
 
 #### Mini-Hackathon
 
-Participants will develop an app from a few options to during the hackathon, with async support on a discord server, and 2 dedicated live support sessions.
+Participants will develop an app from a few options during the hackathon, with async support on Discord and 2 live support sessions.
 
 #### Project Support
 
-Participants get access to two weeks of async support after the hackathon ends, with live sessions to present their projects progress and receive feedback at the end of the month.
+Participants get two weeks of async support to work on their own projects, with live sessions at the end of the month to present and get feedback.
 
 ## Details
 
@@ -123,19 +123,24 @@ If you aren’t an experienced Rust dev, then you’ll need to go through the fo
 | May 7 | Paths & Agent Based Queries |
 | May 8 | Validation |
 | May 9 | Capability Tokens | | 	|  |
+| 	|  |
 | May 12 | Affordances for hApp Design & External APIs |
 | May 13 | hApp Tooling & Hackathon Start  |
 | May 14 | Hackathon Support Session |
 | May 15 | Hackathon Support Session |
 | May 16 | Hackathon End & Closing |
 | 	|  |
-| May 29: | Project Presentations|
-| May 30: | Project Presentations|
+| May 19-23 | Project Support|
+| 	|  |
+| May 25-29 | Project Support|
+| 	|  |
+| May 29 | Project Presentations|
+| May 30 | Project Presentations|
 
 ## Participate
 The program is limited to 12 participants for a more intimate learning environment with plenty of individual support.
 
-Join the waitlist to reserve your spot in line to be part of the next cohort.
+Reserve your spot in the next cohort!
 
 <a href="https://forms.gle/Mp3LPihre1ns8rYi8"><button :class="$style.button">Join the waitlist</button></a>
 
