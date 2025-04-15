@@ -208,7 +208,7 @@ Yes, they will be available for two months after the course ends.
 #### What if someone is rude, mean, or worse?
 We require participants to read and agree to our code of conduct, if anyone’s behavior violates the [code of conduct](https://docs.google.com/document/u/1/d/1vBpqxwTZs9YuNyFzHsekzomMzOUGtyOE0mVWTxnMYjM/edit?usp=sharing) we will address it immediately, with anything from discussion to removal from the course.
 
-#### What’s the deal with the End of Month session? 
+#### What’s the deal with the session at the end of the month? 
 We will hold a session for participants to share what they’ve been building, get support, and give/get feedback.
 
 #### I can’t make it to this one, will there be another? When?
