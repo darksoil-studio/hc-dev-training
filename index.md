@@ -58,8 +58,6 @@ Participants get two weeks of async support to work on their own projects, with 
 
 |               |                             |
 | ------------- | :-------------------------: |
-| Dates:        |      **May 5-16**      |
-| Project Support:        |      **May 19-30**      |
 | Time:         | **5pm CET  / 11 am EST**    |
 | Location:     | **Zoom**                    |
 | Price:        |   **$2000**                 |
@@ -118,24 +116,22 @@ If you aren’t an experienced Rust dev, then you’ll need to go through the fo
 
 | **Date**        |      **Topic**      |
 | ------------- | :-----------: |
-| May 5 | How Does Holochain Work? |
-| May 6 | Building Basic Holochain Apps |
-| May 7 | Paths & Agent Based Queries |
-| May 8 | Validation |
-| May 9 | Capability Tokens | | 	|  |
+| Day 1 | How Does Holochain Work? |
+| Day 2 | Building Basic Holochain Apps |
+| Day 3 | Paths & Agent Based Queries |
+| Day 4 | Validation |
+| Day 5 | Capability Tokens | | 	|  |
 | 	|  |
-| May 12 | Affordances for hApp Design & External APIs |
-| May 13 | hApp Tooling & Hackathon Start  |
-| May 14 | Hackathon Support Session |
-| May 15 | Hackathon Support Session |
-| May 16 | Hackathon End & Closing |
+| Day 6 | Affordances for hApp Design & External APIs |
+| Day 7 | hApp Tooling & Hackathon Start  |
+| Day 8 | Hackathon Support Session |
+| Day 9 | Hackathon Support Session |
+| Day 10 | Hackathon End & Closing |
 | 	|  |
-| May 19-23 | Project Support|
+| 14 days | Project Support|
 | 	|  |
-| May 25-29 | Project Support|
-| 	|  |
-| May 29 | Project Presentations|
-| May 30 | Project Presentations|
+| End of month | Project Presentations|
+
 
 ## Participate
 The program is limited to 12 participants for a more intimate learning environment with plenty of individual support.
@@ -212,7 +208,7 @@ Yes, they will be available for two months after the course ends.
 #### What if someone is rude, mean, or worse?
 We require participants to read and agree to our code of conduct, if anyone’s behavior violates the [code of conduct](https://docs.google.com/document/u/1/d/1vBpqxwTZs9YuNyFzHsekzomMzOUGtyOE0mVWTxnMYjM/edit?usp=sharing) we will address it immediately, with anything from discussion to removal from the course.
 
-#### What’s the deal with the February 28th session? 
+#### What’s the deal with the End of Month session? 
 We will hold a session for participants to share what they’ve been building, get support, and give/get feedback.
 
 #### I can’t make it to this one, will there be another? When?
