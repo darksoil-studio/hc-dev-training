@@ -5,7 +5,7 @@ layout: home
 hero:
   name: "Holochain Developer Training"
   text: ""
-  tagline: May 5 – 16
+  #tagline: May 5 – 16
 
   actions:
     - theme: brand
